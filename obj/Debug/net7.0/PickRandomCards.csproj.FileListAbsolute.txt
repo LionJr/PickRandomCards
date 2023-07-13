@@ -1,0 +1,15 @@
+C:\dotnet\C#\HeadFirst\PickRandomCards\bin\Debug\net7.0\PickRandomCards.exe
+C:\dotnet\C#\HeadFirst\PickRandomCards\bin\Debug\net7.0\PickRandomCards.deps.json
+C:\dotnet\C#\HeadFirst\PickRandomCards\bin\Debug\net7.0\PickRandomCards.runtimeconfig.json
+C:\dotnet\C#\HeadFirst\PickRandomCards\bin\Debug\net7.0\PickRandomCards.dll
+C:\dotnet\C#\HeadFirst\PickRandomCards\bin\Debug\net7.0\PickRandomCards.pdb
+C:\dotnet\C#\HeadFirst\PickRandomCards\obj\Debug\net7.0\PickRandomCards.csproj.AssemblyReference.cache
+C:\dotnet\C#\HeadFirst\PickRandomCards\obj\Debug\net7.0\PickRandomCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\C#\HeadFirst\PickRandomCards\obj\Debug\net7.0\PickRandomCards.AssemblyInfoInputs.cache
+C:\dotnet\C#\HeadFirst\PickRandomCards\obj\Debug\net7.0\PickRandomCards.AssemblyInfo.cs
+C:\dotnet\C#\HeadFirst\PickRandomCards\obj\Debug\net7.0\PickRandomCards.csproj.CoreCompileInputs.cache
+C:\dotnet\C#\HeadFirst\PickRandomCards\obj\Debug\net7.0\PickRandomCards.dll
+C:\dotnet\C#\HeadFirst\PickRandomCards\obj\Debug\net7.0\refint\PickRandomCards.dll
+C:\dotnet\C#\HeadFirst\PickRandomCards\obj\Debug\net7.0\PickRandomCards.pdb
+C:\dotnet\C#\HeadFirst\PickRandomCards\obj\Debug\net7.0\PickRandomCards.genruntimeconfig.cache
+C:\dotnet\C#\HeadFirst\PickRandomCards\obj\Debug\net7.0\ref\PickRandomCards.dll
