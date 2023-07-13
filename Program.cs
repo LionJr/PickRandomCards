@@ -22,7 +22,7 @@ namespace PickRandomCards
         }
         else
         {
-          Console.WriteLine("Please give valid number of cards you that you need");
+          Console.WriteLine("Please give valid number of cards that you need");
         }
       }
     }
