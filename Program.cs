@@ -6,10 +6,24 @@ namespace PickRandomCards
   {
     static void Main(string[] args)
     {
-      string[] cards = CardPicker.PickSomeCards(10);
-      foreach(string card in cards)
+      bool result = true;
+      while(result)
       {
-        Console.WriteLine(card);
+        Console.Write("Enter the number of cards to pick: ");
+        string? line = Console.ReadLine();
+
+        if(int.TryParse(line, out int numberOfCards))
+        {
+          foreach(string card in CardPicker.PickSomeCards(numberOfCards))
+          {
+            Console.WriteLine(card);
+            result = false;
+          }
+        }
+        else
+        {
+          Console.WriteLine("Please give valid number of cards you that you need");
+        }
       }
     }
   }
