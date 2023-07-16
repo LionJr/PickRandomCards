@@ -1,4 +1,9 @@
 ﻿using System;
+///<summary>
+///Choses some amount of cards and returns them
+///</summary>
+///<param name="numberOfCards">Amount of cards that will be chosen. </param>
+///<returns> Array of type string with chosen card names. </returns>
 
 namespace PickRandomCards
 {
